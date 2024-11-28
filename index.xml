@@ -8,6 +8,19 @@
     <language>en</language>
     <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>POst Numero 2</title>
+      <link>/posts/posts/teste-de-novo-poste/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/posts/teste-de-novo-poste/</guid>
+      <description>&lt;p&gt;vendo se funciona
+pra ver se compensa&lt;/p&gt;</description>
+      <content>&lt;p&gt;vendo se funciona
+pra ver se compensa&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>The World Of Lex</title>
       <link>/posts/posts/the-world-of-lex/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
@@ -39,17 +52,6 @@
 tetste final&lt;/p&gt;
 &lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241128184206.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ainda sem sussece a carga automatica&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/posts/teste-de-novo-poste/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/posts/teste-de-novo-poste/</guid>
-      <description>&lt;p&gt;vendo se funciona&lt;/p&gt;</description>
-      <content>&lt;p&gt;vendo se funciona&lt;/p&gt;
 </content>
     </item>
     
