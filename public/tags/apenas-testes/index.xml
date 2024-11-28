@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apenas Testes on Terminal</title>
+    <link>/tags/apenas-testes/</link>
+    <description>Recent content in Apenas Testes on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/apenas-testes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>POst Numero 2</title>
+      <link>/posts/posts/teste-de-novo-poste/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/posts/teste-de-novo-poste/</guid>
+      <description>&lt;p&gt;vendo se funciona
+pra ver se compensa&lt;/p&gt;</description>
+      <content>&lt;p&gt;vendo se funciona
+pra ver se compensa&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
