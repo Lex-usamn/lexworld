@@ -37,3 +37,8 @@ Vamos nessa jornada juntos? Deixe um comentário, compartilhe sua opinião e ven
 
 
 vamos que vamos
+tetste final 
+
+!![Image Description](/images/Pasted%20image%2020241128184206.png)
+
+tnks Chuck for ideia

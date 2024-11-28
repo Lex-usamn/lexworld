@@ -152,4 +152,4 @@ try {
 # Delete the temporary branch
 git branch -D godaddy-deploy
 
-Write-Host "Tudo pronto! Site sincronizado, processado, confirmado, construído e implantado."
+Write-Host "Tudo pronto! Site sincronizado, processado, confirmado, construido e implantado."
