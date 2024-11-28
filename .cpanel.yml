@@ -1,5 +1,4 @@
----
-deployment:
+---deployment:
   tasks:
-    - export DEPLOYPATH=/home/username/public_html/
-    - /bin/cp -R * $DEPLOYPATH
+    - export DEPLOYPATH=/home/uhqmv0ugvqbr/public_html/redesupersam.com.br
+    - /bin/cp -R images $DEPLOYPATH
