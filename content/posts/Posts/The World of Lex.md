@@ -6,7 +6,7 @@ tags:
   - Lex-Usamn
   - blog
 ---
-!![Image Description](/images/Pasted%20image%2020241128151010.png)
+![[Pasted image 20241128151010.png]]
 
 # Bem-vindo ao meu mundo! 🌍
 
@@ -33,7 +33,7 @@ Vamos nessa jornada juntos? Deixe um comentário, compartilhe sua opinião e ven
 **Abraços e até o próximo post!**  
 \- [Lex-Usamn]
 
-!![Image Description](/images/Pasted%20image%2020241128151440.png)
+![[Pasted image 20241128151440.png]]
 
 
 vamos que vamos
