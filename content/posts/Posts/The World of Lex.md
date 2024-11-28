@@ -41,14 +41,11 @@ tetste final
 
 !![Image Description](/images/Pasted%20image%2020241128184206.png)
 
-.cpanel.yml tentendo do laod do giyt
+ainda sem sussece a carga automatica
 
 
 
-!![Image Description](/images/Pasted%20image%2020241128190243.png)
 
 
-parece q agora foi
 
 
-!![Image Description](/images/Pasted%20image%2020241128200512.png)

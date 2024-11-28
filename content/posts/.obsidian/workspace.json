@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/The World of Lex.md",
+                "file": "Posts/Teste de Novo poste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The World of Lex"
+              "title": "Teste de Novo poste"
             }
           }
         ]
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"![[Pasted image 20241128112232.png]]\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,6 +182,13 @@
   },
   "active": "97b09b28acb5f786",
   "lastOpenFiles": [
+    "Posts/The World of Lex.md",
+    "Posts/Teste de Novo poste.md",
+    "1c32b20704b0400286f73681b6c72135~tplv-rjxq75k7vb-image.png",
+    "Pasted image 20241128112232.png",
+    "2024-11-28.md",
+    "Sem título.canvas",
+    "Sem título 1.canvas",
     "Posts/attachments/Pasted image 20241128200512.png",
     "Posts/attachments/Pasted image 20241128193556.png",
     "Posts/attachments/Pasted image 20241128191658.png",
@@ -192,10 +198,7 @@
     "Posts/attachments/Pasted image 20241128151010.png",
     "Posts/attachments/Pasted image 20241128150850.png",
     "Posts/attachments",
-    "1c32b20704b0400286f73681b6c72135~tplv-rjxq75k7vb-image.png",
-    "Pasted image 20241128112232.png",
     "Welcome.md",
-    "Posts/The World of Lex.md",
     "Posts"
   ]
 }
