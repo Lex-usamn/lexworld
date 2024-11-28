@@ -36,3 +36,4 @@ Vamos nessa jornada juntos? Deixe um comentário, compartilhe sua opinião e ven
 !![Image Description](/images/Pasted%20image%2020241128151440.png)
 
 
+vamos que vamos
