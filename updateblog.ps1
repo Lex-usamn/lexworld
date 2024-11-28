@@ -123,33 +123,33 @@ try {
     exit 1
 }
 
-# Step 8: Push the public folder to the hostinger branch using subtree split and force push
-Write-Host "Deploying to GitHub Hostinger..."
+# Step 8: Push the public folder to the godaddy branch using subtree split and force push
+Write-Host "Deploying to GitHub godaddy..."
 
 # Check if the temporary branch exists and delete it
-$branchExists = git branch --list "hostinger-deploy"
+$branchExists = git branch --list "godaddy-deploy"
 if ($branchExists) {
-    git branch -D hostinger-deploy
+    git branch -D godaddy-deploy
 }
 
 # Perform subtree split
 try {
-    git subtree split --prefix public -b hostinger-deploy
+    git subtree split --prefix public -b godaddy-deploy
 } catch {
     Write-Error "Subtree split failed."
     exit 1
 }
 
-# Push to hostinger branch with force
+# Push to godaddy branch with force
 try {
-    git push origin hostinger-deploy:hostinger --force
+    git push origin godaddy-deploy:godaddy --force
 } catch {
-    Write-Error "Failed to push to hostinger branch."
-    git branch -D hostinger-deploy
+    Write-Error "Failed to push to godaddy branch."
+    git branch -D godaddy-deploy
     exit 1
 }
 
 # Delete the temporary branch
-git branch -D hostinger-deploy
+git branch -D godaddy-deploy
 
-Write-Host "All done! Site synced, processed, committed, built, and deployed."
+Write-Host "Tudo pronto! Site sincronizado, processado, confirmado, construído e implantado."
