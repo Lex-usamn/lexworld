@@ -41,11 +41,12 @@ tetste final
 
 !![Image Description](/images/Pasted%20image%2020241128184206.png)
 
-.cpanel.yml
+.cpanel.yml tentendo do laod do giyt
 
 
 
 !![Image Description](/images/Pasted%20image%2020241128190243.png)
 
 
-!![Image Description](/images/Pasted%20image%2020241128191658.png)
+Enviado para o giyhub
+!![Image Description](/images/Pasted%20image%2020241128193556.png)
